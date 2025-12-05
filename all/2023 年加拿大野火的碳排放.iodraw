@@ -206,8 +206,8 @@
         <mxCell id="NyJ2tltIp87FPYkQ8bon-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="20" y="1430" width="20" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="NyJ2tltIp87FPYkQ8bon-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1970" width="120" height="60" as="geometry" />
+        <mxCell id="NyJ2tltIp87FPYkQ8bon-3" value="火灾与气候条件的关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="2280" width="500" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
