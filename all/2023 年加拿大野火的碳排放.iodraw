@@ -260,6 +260,9 @@
         <mxCell id="VZBCCZ02ejPEH24Z2pmY-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;重要数据：he projected decadal-mean temperature and precipitation Z-scores for the median CMIP6 model under SSP 2–4.5 are shown by the circles.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="2800" width="870" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="VZBCCZ02ejPEH24Z2pmY-2" value="人为砍伐对碳排放的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="3110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
