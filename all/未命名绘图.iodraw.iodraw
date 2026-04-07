@@ -10,9 +10,6 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="180" y="-370" width="1960" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-4" style="endArrow=block;html=1;strokeWidth=2;strokeColor=#7f7f7f;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-2" target="zRQGiYxsGFo5iuMwy989-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-5" value="基于 Python / ArcGIS Pro统一时空分辨率和坐标系并掩膜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbe5f1;strokeColor=#7f7f7f;strokeWidth=2;fontSize=26;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="620" y="130" width="1080" height="80" as="geometry" />
         </mxCell>
@@ -394,8 +391,8 @@
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-157" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=25;endSize=7.548837209302326;width=33.95348837209303;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1170" y="240" as="sourcePoint" />
-            <mxPoint x="1170" y="300" as="targetPoint" />
+            <mxPoint x="1270" y="230" as="sourcePoint" />
+            <mxPoint x="1270" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
