@@ -190,7 +190,7 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-63" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-44" target="zRQGiYxsGFo5iuMwy989-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="-20" as="sourcePoint" />
             <mxPoint x="230" y="-70" as="targetPoint" />
