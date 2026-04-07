@@ -364,9 +364,6 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="110" y="914" width="1960" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-136" value="重心迁移模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-138" value="分位数分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="660" y="485" width="180" height="90" as="geometry" />
         </mxCell>
@@ -377,7 +374,10 @@
           <mxGeometry x="1600" y="270" width="430" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-148" value="热点探测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="495" width="210" height="90" as="geometry" />
+          <mxGeometry x="1560" y="485" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-149" value="热点探测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="495" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
