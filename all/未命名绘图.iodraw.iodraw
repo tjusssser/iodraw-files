@@ -357,7 +357,7 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-168" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1220" y="980" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-169" value="随机森林 + SHAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-169" value="随机森林 + SHAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1445" y="980" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zRQGiYxsGFo5iuMwy989-173" target="zRQGiYxsGFo5iuMwy989-168" edge="1">
@@ -399,11 +399,8 @@
             <mxPoint x="1164.41" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-185" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="190" y="730" width="1960" height="390" as="geometry" />
-        </mxCell>
         <mxCell id="btd97p_FJGGIpMpP1P9A-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="183" y="53" width="1960" height="390" as="geometry" />
+          <mxGeometry x="183" y="53" width="1964" height="569" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
