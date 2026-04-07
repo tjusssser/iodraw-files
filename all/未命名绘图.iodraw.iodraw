@@ -51,8 +51,8 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="420" y="1080" width="1520" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-23" value="研究内容二：气候变化响应与多因子驱动机制" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1330" width="420" height="24" as="geometry" />
+        <mxCell id="zRQGiYxsGFo5iuMwy989-23" value="&lt;span style=&quot;font-size: 31px; font-weight: 400;&quot;&gt;时空格局与演变特征&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="890" width="420" height="24" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-24" value="全球森林野火碳排放&#xa;驱动因素识别与耦合机制解析" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#6c8ebf;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="700" y="1392" width="360" height="80" as="geometry" />
