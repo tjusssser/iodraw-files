@@ -371,8 +371,11 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-148" value="成分数据分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1450" y="485" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-149" value="区域-植被贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-149" value="植被贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1710" y="485" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-152" value="植被贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="485" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
