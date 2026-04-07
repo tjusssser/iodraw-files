@@ -376,8 +376,11 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-148" value="异常年份识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1560" y="485" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-149" value="热点探测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-149" value="区域贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1855" y="485" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-150" value="区域贡献" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="495" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
