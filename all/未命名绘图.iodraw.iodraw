@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UB_UPG94e84lPRj_AJ7y">
-    <mxGraphModel dx="816" dy="16708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="17416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,19 +43,11 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-15" value="热点探测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1190" y="561" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-21" style="endArrow=block;html=1;strokeWidth=2;strokeColor=#7f7f7f;" edge="1" parent="1" target="zRQGiYxsGFo5iuMwy989-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1139.4103773584907" y="710" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1080" width="1520" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-23" value="&lt;span style=&quot;font-size: 31px; font-weight: 400;&quot;&gt;时空格局与演变特征&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="890" width="420" height="24" as="geometry" />
+          <mxGeometry x="1130" y="1030" width="1520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-24" value="全球森林野火碳排放&#xa;驱动因素识别与耦合机制解析" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#6c8ebf;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1392" width="360" height="80" as="geometry" />
+          <mxGeometry x="730" y="910" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-25" value="相关分析&#xa;偏相关 / 滞后相关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="250" y="1407" width="180" height="80" as="geometry" />
@@ -79,9 +71,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-32" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-28" target="zRQGiYxsGFo5iuMwy989-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-33" style="endArrow=block;html=1;strokeWidth=2;strokeColor=#7f7f7f;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-22" target="zRQGiYxsGFo5iuMwy989-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
