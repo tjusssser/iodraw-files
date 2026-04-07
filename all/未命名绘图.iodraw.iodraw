@@ -46,23 +46,27 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-370" y="1570" width="1520" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24" target="zRQGiYxsGFo5iuMwy989-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zRQGiYxsGFo5iuMwy989-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1372.5" y="1090" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24" target="zRQGiYxsGFo5iuMwy989-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zRQGiYxsGFo5iuMwy989-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-24" value="全球野火碳排放驱动与耦合机制" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=default;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="940" width="440" height="94" as="geometry" />
+          <mxGeometry x="1295" y="890" width="440" height="94" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-25" value="相关性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="480" y="1140" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-26" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1140" width="205" height="80" as="geometry" />
+          <mxGeometry x="1280" y="1050" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-27" value="随机森林 + SHAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1735" y="1150" width="210" height="80" as="geometry" />
+          <mxGeometry x="1730" y="1080" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-28" value="非线性响应" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="705" y="1140" width="210" height="80" as="geometry" />
@@ -397,7 +401,7 @@
           <mxGeometry x="950" y="1140" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-164" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1140" width="205" height="80" as="geometry" />
+          <mxGeometry x="1490" y="1060" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-168" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1420" width="180" height="80" as="geometry" />
@@ -417,11 +421,11 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-173" value="全球野火碳排放驱动与耦合机制" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#000000;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1210" width="440" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-174" value="变量筛选" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-174" value="多元线性回归" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1620" y="1420" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-175" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1505" y="988" width="50" height="30" as="geometry" />
+          <mxGeometry x="1505" y="938" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
