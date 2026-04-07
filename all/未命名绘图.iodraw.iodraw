@@ -65,7 +65,7 @@
           <mxGeometry x="1735" y="1150" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-28" value="非线性响应" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1140" width="210" height="80" as="geometry" />
+          <mxGeometry x="705" y="1140" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="120" y="1602" width="1520" height="120" as="geometry" />
@@ -380,6 +380,15 @@
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-158" value="&lt;span style=&quot;font-size: 31px; text-align: left; text-wrap: nowrap;&quot;&gt;气候驱动与耦合机制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=31;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="60" y="910" width="70" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-161" target="zRQGiYxsGFo5iuMwy989-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-161" target="zRQGiYxsGFo5iuMwy989-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-161" target="zRQGiYxsGFo5iuMwy989-162">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-161" value="全球野火碳排放与因子响应" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#000000;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="590" y="930" width="440" height="94" as="geometry" />
