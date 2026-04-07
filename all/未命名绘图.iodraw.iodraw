@@ -46,6 +46,12 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-370" y="1570" width="1520" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24" target="zRQGiYxsGFo5iuMwy989-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24" target="zRQGiYxsGFo5iuMwy989-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-24" value="气候驱动与耦合机制" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#6c8ebf;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="730" y="910" width="360" height="80" as="geometry" />
         </mxCell>
@@ -62,12 +68,6 @@
           <mxGeometry x="1250" y="910" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-29" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-25" target="zRQGiYxsGFo5iuMwy989-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-30" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-26" target="zRQGiYxsGFo5iuMwy989-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-31" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-27" target="zRQGiYxsGFo5iuMwy989-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-32" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-28" target="zRQGiYxsGFo5iuMwy989-24">
