@@ -10,7 +10,7 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="180" y="-410" width="1960" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-5" value="基于 Python / ArcGIS Pro统一时空分辨率和坐标系并掩膜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbe5f1;strokeColor=#7f7f7f;strokeWidth=2;fontSize=31;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-5" value="基于 Python / ArcGIS Pro统一时空分辨率和坐标系并掩膜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbe5f1;strokeColor=#000000;strokeWidth=2;fontSize=31;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="630" y="90" width="1080" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-9" target="zRQGiYxsGFo5iuMwy989-139">
@@ -385,7 +385,7 @@
           <mxGeometry x="190" y="1200" width="1960" height="190" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-180" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;现实意义&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=31;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1200" width="70" height="220" as="geometry" />
+          <mxGeometry x="80" y="1200" width="70" height="210" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-182" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=40.67516879219804;endSize=8.393548387096773;width=49.03225806451613;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
