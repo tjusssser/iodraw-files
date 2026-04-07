@@ -50,16 +50,16 @@
           <mxGeometry x="730" y="910" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-25" value="相关性分析&lt;br&gt;偏相关 / 滞后相关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="325" y="910" width="180" height="80" as="geometry" />
+          <mxGeometry x="370" y="910" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-26" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="580" y="1130" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-27" value="随机森林 + SHAP&#xa;识别非线性与阈值效应" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1140" width="210" height="80" as="geometry" />
+          <mxGeometry x="980" y="1130" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-28" value="结构方程模型 / 交互作用&#xa;气候–植被–人类耦合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="910" width="210" height="80" as="geometry" />
+          <mxGeometry x="1250" y="910" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-29" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-25" target="zRQGiYxsGFo5iuMwy989-24">
           <mxGeometry relative="1" as="geometry" />
