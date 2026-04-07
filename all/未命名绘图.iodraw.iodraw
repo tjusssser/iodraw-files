@@ -318,11 +318,11 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;燃烧面积&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1660.0000000000018" y="-86" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-114" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1450" y="-10" as="sourcePoint" />
-            <mxPoint x="1500" y="-60" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-109" target="zRQGiYxsGFo5iuMwy989-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-109" target="zRQGiYxsGFo5iuMwy989-113">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
