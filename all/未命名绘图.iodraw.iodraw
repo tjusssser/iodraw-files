@@ -56,7 +56,7 @@
           <mxGeometry x="1190" y="920" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-25" value="相关性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1200" width="180" height="80" as="geometry" />
+          <mxGeometry x="490" y="1200" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-26" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1210" width="180" height="80" as="geometry" />
@@ -384,7 +384,7 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-161" value="全球野火碳排放与因子响应" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#000000;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="650" y="930" width="440" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-162" value="阈值分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-162" value="变量剔除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1200" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
