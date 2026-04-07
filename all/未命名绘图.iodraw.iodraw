@@ -357,7 +357,7 @@
           <mxGeometry x="70" y="224" width="70" height="430" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="190" y="224" width="1960" height="440" as="geometry" />
+          <mxGeometry x="180" y="224" width="1960" height="440" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-138" value="分位数分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="680" y="485" width="180" height="90" as="geometry" />
