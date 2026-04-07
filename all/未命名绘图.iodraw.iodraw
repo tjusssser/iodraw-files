@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-5" value="数据预处理与统一化&#xa;GEE / Python / ArcGIS Pro&#xa;统一时空分辨率、坐标系、掩膜、分区与统计单元" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe5f1;strokeColor=#7f7f7f;strokeWidth=2;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="260" y="315" width="1080" height="80" as="geometry" />
+          <mxGeometry x="450" y="220" width="1080" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-6" style="endArrow=block;html=1;strokeWidth=2;strokeColor=#7f7f7f;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-5" target="zRQGiYxsGFo5iuMwy989-7">
           <mxGeometry relative="1" as="geometry" />
