@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="395" y="240" width="1520" height="330" as="geometry" />
+          <mxGeometry x="180" y="240" width="1735" height="330" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-9" value="空间分布格局" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#6c8ebf;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="485" y="270" width="420" height="70" as="geometry" />
