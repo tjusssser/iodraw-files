@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UB_UPG94e84lPRj_AJ7y">
-    <mxGraphModel dx="13360" dy="17180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
+    <mxGraphModel dx="13813" dy="17573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,27 +46,8 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-370" y="1570" width="1520" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1372.5" y="1090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1840" y="1100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-24" value="全球野火碳排放驱动与耦合机制" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=default;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="890" width="440" height="94" as="geometry" />
-        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-25" value="相关性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="480" y="1140" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-26" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1050" width="205" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-27" value="随机森林 + SHAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1080" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-28" value="非线性响应" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="705" y="1140" width="210" height="80" as="geometry" />
@@ -400,14 +381,11 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-162" value="变量筛选" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="950" y="1140" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-164" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1060" width="205" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-168" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1420" width="180" height="80" as="geometry" />
+          <mxGeometry x="1210" y="1140" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-169" value="随机森林 + SHAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="1420" width="210" height="80" as="geometry" />
+          <mxGeometry x="1435" y="1140" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-173" target="zRQGiYxsGFo5iuMwy989-168">
           <mxGeometry relative="1" as="geometry" />
@@ -419,13 +397,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-173" value="全球野火碳排放驱动与耦合机制" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#000000;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1210" width="440" height="94" as="geometry" />
+          <mxGeometry x="1320" y="930" width="440" height="94" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-174" value="多元线性回归" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1420" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-175" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1505" y="938" width="50" height="30" as="geometry" />
+          <mxGeometry x="1680" y="1140" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
