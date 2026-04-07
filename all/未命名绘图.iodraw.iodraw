@@ -361,8 +361,11 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-136" value="重心迁移模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-138" value="重心迁移模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-138" value="分位数分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="700" y="395" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-139" value="重心迁移模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="920" y="395" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
