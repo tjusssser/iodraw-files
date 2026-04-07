@@ -21,6 +21,9 @@
             <mxPoint x="1151.967213114754" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-9" target="zRQGiYxsGFo5iuMwy989-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-9" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;空间分布格局&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#000000;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="440" height="90" as="geometry" />
         </mxCell>
@@ -362,10 +365,10 @@
           <mxGeometry x="1260" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-138" value="分位数分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="790" y="450" width="180" height="90" as="geometry" />
+          <mxGeometry x="660" y="485" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-139" value="空间集中程度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="200" y="480" width="180" height="90" as="geometry" />
+          <mxGeometry x="200" y="485" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-140" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;极端事件分解&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#000000;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1600" y="270" width="430" height="90" as="geometry" />
