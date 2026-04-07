@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UB_UPG94e84lPRj_AJ7y">
-    <mxGraphModel dx="12960" dy="16833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
+    <mxGraphModel dx="14040" dy="17770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="1190" y="920" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-25" value="相关性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1210" width="180" height="80" as="geometry" />
+          <mxGeometry x="500" y="1200" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-26" value="结构方程模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1210" width="180" height="80" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1510" y="1210" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-28" value="非线性响应" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1200" width="210" height="80" as="geometry" />
+          <mxGeometry x="750" y="1200" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="120" y="1602" width="1520" height="120" as="geometry" />
@@ -385,7 +385,7 @@
           <mxGeometry x="650" y="930" width="440" height="94" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-162" value="阈值分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="1200" width="210" height="80" as="geometry" />
+          <mxGeometry x="1020" y="1200" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
