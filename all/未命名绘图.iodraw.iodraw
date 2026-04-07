@@ -42,15 +42,6 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-15" value="重心迁移与纬向边界&#xa;LCG / SD / P10–P90 / Q95" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1460" y="395" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-16" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-9" target="zRQGiYxsGFo5iuMwy989-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-17" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-9" target="zRQGiYxsGFo5iuMwy989-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-18" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-9" target="zRQGiYxsGFo5iuMwy989-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-19" style="endArrow=block;html=1;strokeWidth=2;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-10" target="zRQGiYxsGFo5iuMwy989-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
