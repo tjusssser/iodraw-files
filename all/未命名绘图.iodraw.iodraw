@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UB_UPG94e84lPRj_AJ7y">
-    <mxGraphModel dx="13632" dy="17416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
+    <mxGraphModel dx="14331" dy="18023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="16000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zRQGiYxsGFo5iuMwy989-1" value="全球森林野火碳排放时空分布格局及驱动机制分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#2872E2;strokeWidth=3;fontSize=30;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-460" width="940" height="90" as="geometry" />
+          <mxGeometry x="630" y="-460" width="1320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="180" y="-340" width="1960" height="440" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-4" style="endArrow=block;html=1;strokeWidth=2;strokeColor=#7f7f7f;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-2" target="zRQGiYxsGFo5iuMwy989-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-5" value="&amp;nbsp;Python / ArcGIS Pro，统一时空分辨率和坐标系并掩膜" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbe5f1;strokeColor=#7f7f7f;strokeWidth=2;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="zRQGiYxsGFo5iuMwy989-5" value="&amp;nbsp;Python / ArcGIS Pro，统一时空分辨率和坐标系并掩膜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbe5f1;strokeColor=#7f7f7f;strokeWidth=2;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="620" y="130" width="1080" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-6" style="endArrow=block;html=1;strokeWidth=2;strokeColor=#7f7f7f;" edge="1" parent="1" source="zRQGiYxsGFo5iuMwy989-5" target="zRQGiYxsGFo5iuMwy989-7">
