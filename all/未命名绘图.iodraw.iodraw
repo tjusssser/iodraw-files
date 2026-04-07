@@ -27,8 +27,8 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-10" value="时间变化趋势" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#eaf2fb;strokeColor=#000000;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1280" y="270" width="420" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-11" value="植被类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="435" y="395" width="220" height="90" as="geometry" />
+        <mxCell id="zRQGiYxsGFo5iuMwy989-11" value="植被分区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-12" value="趋势分析&#xa;Mann–Kendall + Sen&#39;s slope" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="685" y="395" width="170" height="90" as="geometry" />
