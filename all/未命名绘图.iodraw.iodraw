@@ -43,9 +43,6 @@
         <mxCell id="zRQGiYxsGFo5iuMwy989-15" value="热点探测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1190" y="561" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zRQGiYxsGFo5iuMwy989-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#5b9bd5;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1250" width="1520" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="zRQGiYxsGFo5iuMwy989-25" value="相关性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="480" y="1030" width="180" height="80" as="geometry" />
         </mxCell>
@@ -404,6 +401,9 @@
             <mxPoint x="1158.57" y="1180" as="sourcePoint" />
             <mxPoint x="1158.57" y="1240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zRQGiYxsGFo5iuMwy989-179" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#70A5F0;strokeWidth=3;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1320" width="1960" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
